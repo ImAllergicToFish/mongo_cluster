@@ -5,7 +5,6 @@ To run the script, use the command:
 ```
 sudo ./dbstart.sh
 ```
-***
 To connect to the MongoDB terminal, use the command:
 ```
 sudo docker exec -it mongo1 mongo
